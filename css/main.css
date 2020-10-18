@@ -1,0 +1,15 @@
+.button-nav{
+  text-decoration: none;
+  /* color: #858585; */
+  color: black;
+  font-weight: bold;
+  }
+  /*https://www.w3schools.com/css/css_link.asp*/
+  .button-nav:hover{
+    /* color: #3f3f3f; */
+    color: #03B8C9;
+  }
+  .button-nav:focus{
+    /* color: #3f3f3f; */
+    color: #03B8C9;
+  }
